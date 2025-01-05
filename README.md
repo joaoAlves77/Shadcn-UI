@@ -18,10 +18,9 @@ Este é um projeto de criação de um sistema de login simples, onde os usuário
 2. Abra o arquivo `index.html` em seu navegador da web.
 
 ## Tecnologias Utilizadas
-- TypeScritp
-- React
-- TailwindCss
-- Next
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ## Contribuição
 
